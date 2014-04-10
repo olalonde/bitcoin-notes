@@ -1,8 +1,8 @@
-[blockchain.svg](http://syskall.com/bitcoin-notes/svg/blockchain.svg]
+[blockchain.svg](http://syskall.com/bitcoin-notes/svg/blockchain.svg)
 
-[Glossary](GLOSSARY.md]
+[Glossary](GLOSSARY.md)
 
-WIP...
+WIy...
 
 # Bitcoin Protocol
 
